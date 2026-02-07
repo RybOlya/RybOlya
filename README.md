@@ -1,9 +1,6 @@
 
   ### <div align="center">Robotics Engineer at [SoftServe](https://www.linkedin.com/company/softserve/mycompany/)</div>  
-  #### <div align="center">Third-year Systems engineering student</div>  
-
 <br/>  
-
 
 ## Skill Set  
 
@@ -43,11 +40,6 @@
 <br/>  
 
 </table>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RybOlya&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/> 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/RybOlya" target="_blank">
